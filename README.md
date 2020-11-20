@@ -3,11 +3,7 @@
 ## 成都中心
 ### 成都
 
- [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(和秀丽东方一起)](http://www.mafengwo.cn/i/2966466.html) 
-
  [【1.20-2.10】【梅花】【6分】浣花溪公园](http://www.mafengwo.cn/poi/5080.html) 
-
- [【1.20-2.10】【梅花】【6分】塔子山公园(和ICC一起)](http://www.mafengwo.cn/poi/6283.html) 
 
  [【3.1-3.15】【油菜花】【6分】三圣花乡江家艺苑](https://www.sohu.com/a/329521897_348899 ) 
 
@@ -19,25 +15,17 @@
 
  [【3.25-4.10】【樱花】【6分】青白江区凤凰湖湿地公园](http://www.mafengwo.cn/poi/33578568.html) 
 
- [【3.25-4.10】【樱花】【6分】龙泉驿青龙湖湿地公园(在建二期，可以等等)](http://www.mafengwo.cn/poi/9957041.html) 
-
  [【4.1-4.15】【花】【6分】龙泉驿蔚然花海](http://www.weiranhuahai.com/) 
-
- [【4.20-5.20】【花】【6分】桂溪生态公园](http://www.mafengwo.cn/poi/33578712.html) 
 
  [【5.1-6.30】【花】【6分】白鹭湾湿地公园](http://www.mafengwo.cn/poi/6930072.html ) 
 
  [【5.10-6.10】【格桑】【6分】双流空港花田(晴天拍飞机效果好)](http://www.sohu.com/a/238032801_100198546) 
-
- [【5.15-6.30】【薰衣草】【6分】双流紫颐香薰山谷(在建二期，可以等等)](http://www.mafengwo.cn/poi/7032291.html)
 
  [【7.1-7.15】【荷花】【6分】三圣花乡荷塘月色(和蓝顶美术馆一起)](https://www.sohu.com/a/241856304_99965453  ) 
 
  [【9.20-10.10】【桂花】【6分】新都宝光桂湖文化区](http://www.mafengwo.cn/poi/6628936.html) 
 
  [【9.20-10.15】【芙蓉】【6分】天府芙蓉园](http://www.tffry.com/) 
-
- [【10.25-11.15】【菊花】【6分】三圣花乡东篱菊园](http://blog.sina.com.cn/s/blog_844bc7eb0100xgvx.html  ) 
 
  [【11.20-12.10】【银杏】【6分】都江堰景区](http://www.mafengwo.cn/poi/13732.html) 
 
@@ -47,9 +35,11 @@
 
  [【11.20-12.10】【银杏】【6分】青城后山](http://www.mafengwo.cn/poi/6325170.html) 
 
- [【11.20-12.10】【银杏】【6分】望江楼公园(和川大、九眼桥一起)](http://www.mafengwo.cn/poi/5392.html) 
+ [【11.20-12.10】【银杏】【6分】望江楼公园-四川大学-九眼桥)](http://www.mafengwo.cn/poi/5392.html) 
 
  [【11.20-12.10】【银杏】【6分】电子科技大学(沙河校区)](http://www.mafengwo.cn/poi/5854720.html) 
+ 
+
 
 ### 阿坝
 
@@ -241,6 +231,16 @@
 
 ## 成都中心
 
+  [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中，和秀丽东方一起)](http://www.mafengwo.cn/i/2966466.html) 
+  
+  [【1.20-2.10】【梅花】【6分】塔子山公园(和ICC一起，没有完工)](http://www.mafengwo.cn/poi/6283.html) 
+  
+ [【3.25-4.10】【樱花】【7分】龙泉驿青龙湖湿地公园(在建三期)](http://www.mafengwo.cn/poi/9957041.html) 
+   
+  [【4.20-5.20】【花】【6分】桂溪生态公园(有待精致)](http://www.mafengwo.cn/poi/33578712.html) 
+
+  [【5.15-6.30】【薰衣草】【6分】双流紫颐香薰山谷(在建二期)](http://www.mafengwo.cn/poi/7032291.html)
+
  [成都凤凰山公园(和露天音乐公园一起，露天音乐公园有喷泉，有时有灯光秀)](http://www.mafengwo.cn/poi/7686778.html) 
 
  [锦江198·LOHAS绿道](https://baijiahao.baidu.com/s?id=1629620323835381504&wfr=spider&for=pc ) 
@@ -272,6 +272,12 @@
  [建川博物馆](http://www.jc-museum.cn/   ) 
 
  [天府广场(在改造)](http://www.mafengwo.cn/poi/5762.html) 
+
+ [中和湿地公园(有待精致)](https://baike.baidu.com/item/%E4%B8%AD%E5%92%8C%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD/51388950?fr=aladdin) 
+
+ [玉石湿地公园(有待精致)](https://www.meipian.cn/38ocy4gx) 
+
+
 
 
 ## 北京中心
