@@ -16,6 +16,10 @@
  [【3.25-4.10】【樱花】【6分】青白江区凤凰湖湿地公园](http://www.mafengwo.cn/poi/33578568.html) 
 
  [【4.1-4.15】【花】【6分】龙泉驿蔚然花海](http://www.weiranhuahai.com/) 
+ 
+ [【4.1-10.31】【歌剧院】【6分】凤凰山公园_露天音乐公园(晚上好看)](http://www.mafengwo.cn/poi/7686778.html) 
+ 
+ [【4.1-10.31】【人文】【7分】刘氏庄园博物馆_安仁古镇_建川博物馆聚落](http://www.jc-museum.cn/ ) 
 
  [【5.1-6.30】【花】【6分】白鹭湾湿地公园](http://www.mafengwo.cn/poi/6930072.html ) 
 
@@ -231,19 +235,13 @@
 
 ## 成都中心
 
- [成都凤凰山公园(和露天音乐公园一起，露天音乐公园有喷泉，有时有灯光秀)](http://www.mafengwo.cn/poi/7686778.html) 
-
  [锦江198·LOHAS绿道](https://baijiahao.baidu.com/s?id=1629620323835381504&wfr=spider&for=pc ) 
 
  [都江堰赵公山攻略,赵公山门票_地址,赵公山游览攻略 - 马蜂窝](http://www.mafengwo.cn/poi/6737998.html) 
 
- [成都大熊猫繁育研究基地攻略,成都大熊猫繁育研究基地门票_地址,成都大熊猫繁育研究基地游览攻略 - 马蜂窝](http://www.mafengwo.cn/poi/5015.html) 
-
  [宝兴达瓦更扎(限票)](http://www.mafengwo.cn/poi/33647724.html) 
 
  [硗碛藏寨·神木垒](http://www.mafengwo.cn/poi/6789069.html )  
-
- [成都市规划馆-金融城-交子公园](http://www.cdghg.com.cn/) 
 
  [九寨沟](https://www.jiuzhai.com/ ) 
 
@@ -259,7 +257,6 @@
 
  [螺髻山](http://www.luojishan.com/ )  
 
- [建川博物馆](http://www.jc-museum.cn/   ) 
 
   [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中，和秀丽东方一起)](http://www.mafengwo.cn/i/2966466.html) 
 
@@ -270,14 +267,18 @@
   [【4.20-5.20】【花】【6分】桂溪生态公园(有待精致)](http://www.mafengwo.cn/poi/33578712.html) 
 
   [【5.15-6.30】【薰衣草】【6分】双流紫颐香薰山谷(在建二期)](http://www.mafengwo.cn/poi/7032291.html)
-  
+
   [【11.20-12.10】【银杏】【6分】望江楼公园--九眼桥(锦江绿道在建设)](http://www.mafengwo.cn/poi/5392.html) 
+  
+ [成都大熊猫繁育研究基地(扩建中)](http://www.mafengwo.cn/poi/5015.html) 
 
  [天府广场(在改造)](http://www.mafengwo.cn/poi/5762.html) 
 
  [中和湿地公园(有待精致)](https://baike.baidu.com/item/%E4%B8%AD%E5%92%8C%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD/51388950?fr=aladdin) 
 
  [玉石湿地公园(有待精致)](https://www.meipian.cn/38ocy4gx) 
+ 
+ [成都市规划馆-金融城-交子公园(建设中)](http://www.cdghg.com.cn/) 
 
 
 
