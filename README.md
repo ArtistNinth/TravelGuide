@@ -9,6 +9,8 @@
 
 [【1.20-2.10】【梅花】【6分】浣花溪公园_四川博物院](http://www.mafengwo.cn/poi/5080.html) 
 
+[【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
+
  [【3.1-3.15】【油菜花】【6分】三圣花乡江家艺苑](https://www.sohu.com/a/329521897_348899 ) 
 
  [【3.15-4.5】【桃花】【6分】龙泉驿桃花故里](http://www.mafengwo.cn/poi/6963.html) 
@@ -25,6 +27,8 @@
 
  [【4.1-10.31】【人文】【7分】刘氏庄园博物馆_安仁古镇_建川博物馆聚落](http://www.jc-museum.cn/ ) 
 
+ [【4.1-12.10】【三国】【6分】武侯祠博物馆_锦里](http://www.wuhouci.net.cn/default.html) 
+
  [【5.1-6.30】【花】【6分】白鹭湾湿地公园](http://www.mafengwo.cn/poi/6930072.html ) 
 
  [【5.10-6.10】【格桑】【6分】双流空港花田(晴天拍飞机效果好)](http://www.sohu.com/a/238032801_100198546) 
@@ -36,8 +40,6 @@
  [【9.20-10.15】【芙蓉】【6分】天府芙蓉园](http://www.tffry.com/) 
 
  [【11.20-12.10】【银杏】【6分】都江堰景区](http://www.mafengwo.cn/poi/13732.html) 
-
- [【11.20-12.10】【银杏】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
 
  [【11.20-12.10】【银杏】【6分】青城山前山](http://www.mafengwo.cn/poi/7915885.html) 
 
@@ -71,36 +73,38 @@
  [【12.1-2.14】【雪】【7分】贡嘎海螺沟国家森林公园](http://www.mafengwo.cn/poi/15389.html) 
 
 
+### 凉山
+
+ [【5.1-6.10】【杜鹃】【6分】螺髻山](http://www.luojishan.com/ ) 
+
+
 ### 雅安
 
  [【6.1-8.31】【大熊猫】【6分】碧峰峡](http://www.bifengxia.com/  ) 
 
+ [【10.25-11.15】【红杉云海】【7分】宝兴硗碛藏寨·神木垒_达瓦更扎](http://www.mafengwo.cn/poi/6789069.html ) 
+
+
+
 
 ### 未整理
+[达古冰川 ](https://www.dgbc.cn/)
 
- [武侯祠博物馆_锦里](http://www.wuhouci.net.cn/default.html) 
+[海昌极地海洋公园 ](http://cd.haichangoceanpark.com/cdhcop/index.htm)
+
+ [欢乐谷 ](http://cd.happyvalley.cn/)
 
  [四川科技馆](http://www.scstm.com/) 
+
+[劳动人民文化宫_西村大院](http://www.cdwhg.cn/main.php) 
 
  [锦江198·LOHAS绿道](https://baijiahao.baidu.com/s?id=1629620323835381504&wfr=spider&for=pc ) 
 
  [都江堰赵公山攻略,赵公山门票_地址,赵公山游览攻略 - 马蜂窝](http://www.mafengwo.cn/poi/6737998.html) 
 
- [宝兴达瓦更扎(限票)](http://www.mafengwo.cn/poi/33647724.html) 
-
- [硗碛藏寨·神木垒](http://www.mafengwo.cn/poi/6789069.html )  
-
  [九寨沟](https://www.jiuzhai.com/ ) 
 
- [燕子沟](http://www.mafengwo.cn/poi/6326446.html  ) 
-
  [三奥雪山](http://www.mafengwo.cn/poi/5438017.html  ) 
-
- [鸡冠山](http://www.mafengwo.cn/poi/6330893.html)  
-
- [莲宝叶则](https://www.mafengwo.cn/poi/23220908.html) 
-
- [螺髻山](http://www.luojishan.com/ )  
 
 
   [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中，和秀丽东方一起)](http://www.mafengwo.cn/i/2966466.html) 
@@ -113,6 +117,8 @@
 
   [【5.15-6.30】【薰衣草】【6分】双流紫颐香薰山谷(在建二期)](http://www.mafengwo.cn/poi/7032291.html)
 
+ [【10.25-11.20】【彩林】【6分】崇州鸡冠山(去前确认有没有开放)](http://www.mafengwo.cn/poi/6330893.html)
+
   [【11.20-12.10】【银杏】【6分】望江楼公园--九眼桥(锦江绿道在建设)](http://www.mafengwo.cn/poi/5392.html) 
 
  [成都大熊猫繁育研究基地(扩建中)](http://www.mafengwo.cn/poi/5015.html) 
@@ -122,6 +128,8 @@
  [中和湿地公园(有待精致)](https://baike.baidu.com/item/%E4%B8%AD%E5%92%8C%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD/51388950?fr=aladdin) 
 
  [玉石湿地公园(有待精致)](https://www.meipian.cn/38ocy4gx) 
+
+ [莲宝叶则(未开发完全)](https://www.mafengwo.cn/poi/23220908.html) 
 
 
 ## 北京中心
