@@ -5,8 +5,6 @@
 
 [【1.1-12.31】【人文】【6分】成都博物馆(提前预约)](https://www.cdmuseum.com/) 
 
-[【1.1-12.31】【规划馆】【6分】成都市规划馆(提前预约)](http://www.cdghg.com.cn/) 
-
 [【1.20-2.10】【梅花】【6分】浣花溪公园_四川博物院](http://www.mafengwo.cn/poi/5080.html) 
 
 [【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
@@ -53,15 +51,17 @@
 
 ### 阿坝
 
- [【6.25-7.31】【花】【8分】四姑娘山长坪沟穿越毕棚沟](http://www.mafengwo.cn/poi/11651.html) 
+[【6.25-7.31】【花】【8分】四姑娘山长坪沟穿越毕棚沟](http://www.mafengwo.cn/poi/11651.html) 
 
- [【7.1-7.31】【草甸花】【8分】茂县九鼎山](http://www.mafengwo.cn/poi/5438002.html) 
+[【7.1-7.31】【草甸花】【8分】茂县九鼎山](http://www.mafengwo.cn/poi/5438002.html) 
 
- [【7.1-8.31】【绿水】【6分】牟尼沟](https://www.mafengwo.cn/poi/1366638.html   ) 
+[【7.1-8.31】【绿水】【6分】牟尼沟](https://www.mafengwo.cn/poi/1366638.html   ) 
 
- [【10.1-10.15】【彩池】【8分】黄龙](https://www.huanglong.com/  ) 
+[【10.1-10.15】【彩池】【8分】黄龙](https://www.huanglong.com/  ) 
 
- [【10.15-10.31】【秋色】【8分】四姑娘山双桥沟](http://www.mafengwo.cn/poi/11647.html) 
+[【10.15-10.31】【秋色】【8分】四姑娘山双桥沟](http://www.mafengwo.cn/poi/11647.html) 
+
+[【10.20-11.10】【冰川】【7分】达古冰川 ](https://www.dgbc.cn/)
 
 
 ### 甘孜
@@ -85,16 +85,27 @@
  [【10.25-11.15】【红杉云海】【7分】宝兴硗碛藏寨·神木垒_达瓦更扎](http://www.mafengwo.cn/poi/6789069.html ) 
 
 
+### 乐山
+
+[【4.1-11.10】【夜游】【6分】乐山大佛(白天坐船，夜游凌云。夜游在重要假日不开放)](http://www.lsdf517.com/web/index.aspx) 
+
+
 
 
 ### 未整理
-[达古冰川 ](https://www.dgbc.cn/)
+[东坡城市湿地公园(音乐喷泉)_穿越盛世 ](http://www.mafengwo.cn/poi/33647656.html)
+
+[稻城亚丁 ](https://cn.yadingtour.com/)
+
+[瓦屋山 ](http://www.hywws.cn/)
 
 [海昌极地海洋公园 ](http://cd.haichangoceanpark.com/cdhcop/index.htm)
 
  [欢乐谷 ](http://cd.happyvalley.cn/)
 
  [四川科技馆](http://www.scstm.com/) 
+
+[剑门关](https://baike.baidu.com/item/%E5%89%91%E9%97%A8%E5%85%B3%E9%A3%8E%E6%99%AF%E5%8C%BA/1356420?fr=aladdin) 
 
 [劳动人民文化宫_西村大院](http://www.cdwhg.cn/main.php) 
 
