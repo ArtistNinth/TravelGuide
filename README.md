@@ -91,6 +91,12 @@
 
 
 ### 未整理
+[蜀南竹海](https://www.snzh.cn/)
+
+[重庆园博园](http://www.cqybh2011.com/cqyby/index.html)
+
+[照母山植物园](http://www.mafengwo.cn/poi/8535.html)
+
 [嫩恩桑措](http://www.jznesc.com/)
 
 [邛海泸山](https://www.xcqhls.cn/)
