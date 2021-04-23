@@ -2,6 +2,9 @@
 
 ## 成都中心
 ### 成都
+[【1.1-12.31】【科技】【6分】四川科技馆(周一闭馆，需要预约)](http://www.scstm.com/) 
+
+[【1.1-12.31】【老爷车】【6分】三和老爷车博物馆](https://www.shlycmuseum.com/)
 
 [【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
 
@@ -26,11 +29,11 @@
  [【4.1-10.31】【人文】【7分】刘氏庄园博物馆_安仁古镇_建川博物馆聚落_锦绣安仁奇境花园](http://www.jc-museum.cn/ ) 
 
  [【4.1-12.10】【三国】【6分】武侯祠博物馆_锦里](http://www.wuhouci.net.cn/default.html) 
- 
+
   [【4.20-7.15】【花】【6分】新津白鹤滩国家湿地公园](https://you.ctrip.com/travels/chengdu104/3938370.html)
 
  [【5.1-6.30】【花】【6分】白鹭湾湿地公园](http://www.mafengwo.cn/poi/6930072.html ) 
- 
+
  [【7.1-7.15】【荷花】【6分】三圣花乡荷塘月色(和蓝顶美术馆一起)](https://www.sohu.com/a/241856304_99965453  ) 
 
  [【9.20-10.10】【桂花】【6分】新都宝光桂湖文化区](http://www.mafengwo.cn/poi/6628936.html) 
@@ -50,6 +53,9 @@
 
 
 ### 阿坝
+[【1.15-3.15】【雪山云海】【7分】巴朗山熊猫王国之巅](http://www.mafengwo.cn/poi/30973.html)
+
+[【6.15-7.31】【草甸】【6分】卧龙熊猫坪](http://www.wlxmp.com/)
 
 [【6.25-7.31】【花】【8分】四姑娘山长坪沟穿越毕棚沟](http://www.mafengwo.cn/poi/11651.html) 
 
@@ -77,7 +83,11 @@
 
 ### 凉山
 
- [【5.1-6.10】【杜鹃】【6分】螺髻山](http://www.luojishan.com/ ) 
+ [【5.1-6.10】【杜鹃】【6分】螺髻山](http://www.luojishan.com/ )
+
+### 眉山
+
+[【12.1-1.31】【雪】【7分】瓦屋山 ](http://www.hywws.cn/)
 
 
 ### 雅安
@@ -95,7 +105,29 @@
 
 
 ### 未整理
+[欢乐田园](https://www.meipian.cn/3aaxq3kz)
+
+[海尔凼](http://www.mafengwo.cn/gonglve/ziyouxing/393312.html)
+
+[卧龙甘海子](https://www.sohu.com/a/320982733_411957)
+
+[兴文石海](https://www.meipian.cn/39iewnqi)
+
+[凌云山](http://www.lingyunshan.com.cn/)
+
+[邛崃天台山](http://www.mafengwo.cn/poi/13722.html)
+
+[洛带古镇](http://www.luodaiguzhen.cn/)
+
 [蜀南竹海](https://www.snzh.cn/)
+
+[成都大学樱花](http://news.cdu.edu.cn/index.php?m=album&a=show&album_id=263)
+
+[南湖公园](https://www.meipian.cn/wfh5x2g)
+
+[漫花庄园_保利198公园](http://www.manhuazhuangyuan.com/)
+
+[华蓥山](http://www.mafengwo.cn/poi/5429386.html)
 
 [重庆园博园](http://www.cqybh2011.com/cqyby/index.html)
 
@@ -107,8 +139,6 @@
 
 [药王谷](http://www.ywg99.com/)
 
-[大源中央公园](https://www.meipian.cn/1ox08c2n)
-
 [新津斑竹林](http://www.mafengwo.cn/poi/15426864.html)
 
 [八台山](http://www.bts517.com/)
@@ -119,21 +149,13 @@
 
 [东坡城市湿地公园(音乐喷泉)_穿越盛世 ](http://www.mafengwo.cn/poi/33647656.html)
 
-[瓦屋山 ](http://www.hywws.cn/)
-
 [海昌极地海洋公园 ](http://cd.haichangoceanpark.com/cdhcop/index.htm)
 
  [欢乐谷 ](http://cd.happyvalley.cn/)
 
  [国色天乡 ](http://www.mafengwo.cn/poi/5503771.html)
 
- [四川科技馆](http://www.scstm.com/) 
-
 [剑门关](https://baike.baidu.com/item/%E5%89%91%E9%97%A8%E5%85%B3%E9%A3%8E%E6%99%AF%E5%8C%BA/1356420?fr=aladdin) 
-
-[劳动人民文化宫_西村大院](http://www.cdwhg.cn/main.php) 
-
- [锦江198·LOHAS绿道](https://baijiahao.baidu.com/s?id=1629620323835381504&wfr=spider&for=pc ) 
 
  [都江堰赵公山攻略,赵公山门票_地址,赵公山游览攻略 - 马蜂窝](http://www.mafengwo.cn/poi/6737998.html) 
 
@@ -171,6 +193,8 @@
  [莲宝叶则(未开发完全)](https://www.mafengwo.cn/poi/23220908.html) 
 
 [东风渠绿道公园(没建完)_沃尔沃汽车品牌体验中心 ](https://www.meipian.cn/36qt3q8t)
+
+[大源中央公园_瞪羚谷公园_铁像寺水街](https://www.meipian.cn/1ox08c2n)
 
 
 ## 北京中心
