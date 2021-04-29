@@ -12,6 +12,8 @@
 
 [【3.15-4.10】【郁金香】【6分】蒲江石象湖](http://www.mafengwo.cn/poi/5842.html) 
 
+[【3.15-4.10】【欧式】【6分】南湖公园](https://www.meipian.cn/wfh5x2g)
+
 [【3.15-4.15】【花】【6分】成都植物园](http://www.mafengwo.cn/poi/7858.html) 
 
 [【3.15-4.15】【花】【6分】新津花舞人间](http://www.82555666.cc/)
@@ -28,11 +30,13 @@
 
  [【4.1-10.31】【人文】【7分】刘氏庄园博物馆_安仁古镇_建川博物馆聚落_锦绣安仁奇境花园](http://www.jc-museum.cn/ ) 
 
+[【4.1-11.30】【海洋动物】【7分】海昌极地海洋公园 ](https://www.haichangoceanpark.com/chengdu)
+
+[【4.1-11.30】【土楼】【6分】洛带古镇(预约)_洛水湿地公园](http://www.luodaiguzhen.cn/)
+
  [【4.1-12.10】【三国】【6分】武侯祠博物馆_锦里](http://www.wuhouci.net.cn/default.html) 
 
   [【4.20-7.15】【花】【6分】新津白鹤滩国家湿地公园](https://you.ctrip.com/travels/chengdu104/3938370.html)
-
- [【5.1-6.30】【花】【6分】白鹭湾湿地公园](http://www.mafengwo.cn/poi/6930072.html ) 
 
  [【7.1-7.15】【荷花】【6分】三圣花乡荷塘月色(和蓝顶美术馆一起)](https://www.sohu.com/a/241856304_99965453  ) 
 
@@ -74,7 +78,7 @@
 
  [【1.1-2.15】【雪】【7分】色达喇荣五明佛学院](http://www.mafengwo.cn/poi/6013197.html) 
 
- [【5.15-7.31】【奇石】【6分】道孚墨石公园](http://www.mafengwo.cn/poi/2680611.html) 
+ [【5.15-7.31】【奇石】【7分】道孚墨石公园](http://www.mafengwo.cn/poi/2680611.html) 
 
 [【9.10-10.10】【雪山】【8分】稻城亚丁大转山](https://cn.yadingtour.com/)
 
@@ -102,36 +106,39 @@
 [【4.1-11.10】【夜游】【6分】乐山大佛(白天坐船，夜游凌云。夜游在重要假日不开放)](http://www.lsdf517.com/web/index.aspx) 
 
 
+### 重庆
+
+[【3.1-5.31】【木阵】【6分】照母山植物园](http://www.mafengwo.cn/poi/8535.html)
+
 
 
 ### 未整理
+
+[钟家山步道](https://www.meipian.cn/2khfpum9)
+
+[三恩措](http://www.mafengwo.cn/i/17609446.html)
+
+[莫斯卡](http://www.mafengwo.cn/poi/6325790.html)
+
+[党岭](http://www.mafengwo.cn/poi/6725480.html)
+
+[子梅垭口](http://www.mafengwo.cn/poi/7685441.html)
+
 [欢乐田园](https://www.meipian.cn/3aaxq3kz)
+
+[亚拉雪山](http://www.mafengwo.cn/poi/15285.html)
 
 [海尔凼](http://www.mafengwo.cn/gonglve/ziyouxing/393312.html)
 
 [卧龙甘海子](https://www.sohu.com/a/320982733_411957)
 
-[兴文石海](https://www.meipian.cn/39iewnqi)
-
 [凌云山](http://www.lingyunshan.com.cn/)
-
-[邛崃天台山](http://www.mafengwo.cn/poi/13722.html)
-
-[洛带古镇](http://www.luodaiguzhen.cn/)
-
-[蜀南竹海](https://www.snzh.cn/)
-
-[成都大学樱花](http://news.cdu.edu.cn/index.php?m=album&a=show&album_id=263)
-
-[南湖公园](https://www.meipian.cn/wfh5x2g)
 
 [漫花庄园_保利198公园](http://www.manhuazhuangyuan.com/)
 
 [华蓥山](http://www.mafengwo.cn/poi/5429386.html)
 
 [重庆园博园](http://www.cqybh2011.com/cqyby/index.html)
-
-[照母山植物园](http://www.mafengwo.cn/poi/8535.html)
 
 [嫩恩桑措](http://www.jznesc.com/)
 
@@ -143,13 +150,9 @@
 
 [八台山](http://www.bts517.com/)
 
-[北湖生态公园](https://www.meipian.cn/2wc4w9b6)
-
 [新都音乐百花谷](https://www.meipian.cn/2x9vxrgk)
 
 [东坡城市湿地公园(音乐喷泉)_穿越盛世 ](http://www.mafengwo.cn/poi/33647656.html)
-
-[海昌极地海洋公园 ](http://cd.haichangoceanpark.com/cdhcop/index.htm)
 
  [欢乐谷 ](http://cd.happyvalley.cn/)
 
@@ -157,13 +160,15 @@
 
 [剑门关](https://baike.baidu.com/item/%E5%89%91%E9%97%A8%E5%85%B3%E9%A3%8E%E6%99%AF%E5%8C%BA/1356420?fr=aladdin) 
 
- [都江堰赵公山攻略,赵公山门票_地址,赵公山游览攻略 - 马蜂窝](http://www.mafengwo.cn/poi/6737998.html) 
+ [赵公山](http://www.mafengwo.cn/poi/6737998.html) 
 
  [九寨沟](https://www.jiuzhai.com/ ) 
 
  [三奥雪山](http://www.mafengwo.cn/poi/5438017.html  ) 
 
 
+
+### 维修中
   [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中，和秀丽东方一起)](http://www.mafengwo.cn/i/2966466.html) 
 
   [【1.20-2.10】【梅花】【6分】塔子山公园(和ICC一起，没有完工)](http://www.mafengwo.cn/poi/6283.html) 
@@ -171,6 +176,8 @@
  [【3.1-3.15】【油菜花】【6分】三圣花乡江家艺苑](https://www.sohu.com/a/329521897_348899) 
 
   [【4.20-5.20】【花】【6分】桂溪生态公园(有待精致)](http://www.mafengwo.cn/poi/33578712.html) 
+
+ [【5.1-6.30】【花】【6分】白鹭湾湿地公园](http://www.mafengwo.cn/poi/6930072.html ) 
 
  [【5.10-6.10】【格桑】【6分】双流空港花田(晴天拍飞机效果好)](http://www.sohu.com/a/238032801_100198546) 
 
@@ -195,6 +202,16 @@
 [东风渠绿道公园(没建完)_沃尔沃汽车品牌体验中心 ](https://www.meipian.cn/36qt3q8t)
 
 [大源中央公园_瞪羚谷公园_铁像寺水街](https://www.meipian.cn/1ox08c2n)
+
+[成都大学樱花(大运会在建)](http://news.cdu.edu.cn/index.php?m=album&a=show&album_id=263)
+
+[北湖生态公园](https://www.meipian.cn/2wc4w9b6)
+
+[红石涵养湿地公园](https://www.meipian.cn/35d5sdqb)
+
+[【5.1-10.31】【石头】【7分】宜宾兴文石海(创5A中)](https://www.meipian.cn/39iewnqi)
+
+[【4.1-10.31】【竹海】【7分】宜宾蜀南竹海(整修中)](https://www.snzh.cn/)
 
 
 ## 北京中心
