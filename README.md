@@ -69,6 +69,8 @@
 
 [【1.15-3.15】【雪山云海】【7分】巴朗山熊猫王国之巅](http://www.mafengwo.cn/poi/30973.html)
 
+[【3.10-6.10】【藏寨】【6分】甲居藏寨](http://www.mafengwo.cn/i/7029965.html)
+
 [【6.1-7.31】【草甸】【6分】卧龙甘海子](https://www.sohu.com/a/320982733_411957)
 
 [【6.1-9.30】【古堡】【6分】九子屯](https://www.meipian.cn/35n618vv)
@@ -157,9 +159,9 @@
 
 [三恩措](http://www.mafengwo.cn/i/17609446.html)
 
-[贡嘎大环线](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
+[普措沟](http://www.mafengwo.cn/poi/6327320.html)
 
-[麓湖水城](https://www.cdlakecity.com/)
+[贡嘎大环线](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
 
 [望丛祠](http://www.mafengwo.cn/poi/8081625.html)
 
@@ -233,6 +235,8 @@
 [红石涵养湿地公园](https://www.meipian.cn/35d5sdqb)
 
 [桤木河湿地公园](http://www.mafengwo.cn/poi/26104433.html)
+
+[麓湖水城](https://www.cdlakecity.com/)
 
 [【5.1-10.31】【石头】【7分】宜宾兴文石海(创5A中)](https://www.meipian.cn/39iewnqi)
 
