@@ -6,6 +6,8 @@
 
 [【1.1-12.31】【老爷车】【6分】三和老爷车博物馆](https://www.shlycmuseum.com/)
 
+[【1.1-12.31】【飞机】【6分】立巢航空博物馆](http://www.lcam.org.cn/index.php)
+
 [【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
 
 [【3.1-3.15】【海棠】【6分】双流棠湖公园](http://www.mafengwo.cn/poi/5433340.html)
@@ -33,8 +35,6 @@
  [【4.1-10.31】【人文】【7分】锦绣安仁奇境花园-安仁古镇-建川博物馆聚落](http://www.jc-museum.cn/ ) 
 
 [【4.1-11.30】【海洋动物】【7分】海昌极地海洋公园 ](https://www.haichangoceanpark.com/chengdu)
-
-[【4.1-11.30】【土楼】【6分】洛带古镇(预约)-洛水湿地公园](http://www.luodaiguzhen.cn/)
 
 [【4.1-12.10】【三国】【6分】武侯祠博物馆(预约)-锦里](http://www.wuhouci.net.cn/default.html) 
 
@@ -69,6 +69,8 @@
 
 [【1.15-3.15】【雪山云海】【7分】巴朗山熊猫王国之巅](http://www.mafengwo.cn/poi/30973.html)
 
+[【2.1-3.15】【雪山云海】【8分】四姑娘山大峰](http://www.mafengwo.cn/i/18065068.html)
+
 [【3.10-6.10】【藏寨】【6分】甲居藏寨](http://www.mafengwo.cn/i/7029965.html)
 
 [【6.1-7.31】【草甸】【6分】卧龙甘海子](https://www.sohu.com/a/320982733_411957)
@@ -96,7 +98,9 @@
 
  [【1.1-2.15】【雪】【7分】色达喇荣五明佛学院](http://www.mafengwo.cn/poi/6013197.html) 
 
- [【5.15-7.31】【奇石】【7分】道孚墨石公园](http://www.mafengwo.cn/poi/2680611.html) 
+ [【5.15-7.31】【奇石】【6分】道孚墨石公园](http://www.mafengwo.cn/poi/2680611.html) 
+
+[【7.1-10.20】【海子】【7分】普措沟(夏天有土拨鼠)](http://www.mafengwo.cn/poi/6327320.html)
 
 [【9.10-10.10】【雪山】【8分】稻城亚丁大转山](https://cn.yadingtour.com/)
 
@@ -104,7 +108,7 @@
 
 [【10.10-10.25】【彩林】【8分】党岭-葫芦海-卓雍措](http://www.mafengwo.cn/poi/6725480.html)
 
-[【10.15-10.31】【雪山】【6分】亚拉雪山](http://www.mafengwo.cn/poi/15285.html)
+[【10.15-10.31】【雪山】【7分】亚拉雪山](http://www.mafengwo.cn/poi/15285.html)
 
  [【12.1-2.14】【雪】【7分】贡嘎海螺沟国家森林公园](http://www.mafengwo.cn/poi/15389.html) 
 
@@ -159,13 +163,9 @@
 
 [三恩措](http://www.mafengwo.cn/i/17609446.html)
 
-[普措沟](http://www.mafengwo.cn/poi/6327320.html)
+[什达格](https://baijiahao.baidu.com/s?id=1673889077685460197&wfr=spider&for=pc)
 
 [贡嘎大环线](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
-
-[望丛祠](http://www.mafengwo.cn/poi/8081625.html)
-
-[欢乐田园](https://www.meipian.cn/3aaxq3kz)
 
 [武隆喀斯特旅游区(天生三桥-仙女山-芙蓉洞-龙水峡地缝)](https://www.wlkst.com/)
 
