@@ -32,6 +32,8 @@
 
 [【4.1-4.20】【牡丹】【6分】彭州丹景山](http://www.mafengwo.cn/poi/2466275.html)
 
+[【4.1-5.10】【夜景】【6分】简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
+
  [【4.1-10.31】【人文】【7分】锦绣安仁奇境花园-安仁古镇-建川博物馆聚落](http://www.jc-museum.cn/ ) 
 
 [【4.1-11.30】【海洋动物】【7分】海昌极地海洋公园 ](https://www.haichangoceanpark.com/chengdu)
@@ -43,8 +45,6 @@
 [【4.20-7.15】【花】【6分】新津白鹤滩国家湿地公园](http://xjbht.com/index.html)
 
  [【5.1-5.20】【绣球花】【6分】塔子山公园](http://www.mafengwo.cn/poi/6283.html) 
-
- [【5.1-11.30】【竹子】【6分】望江楼公园](http://www.wangjianglou.com/) 
 
  [【7.1-7.15】【荷花】【6分】三圣花乡荷塘月色(和蓝顶美术馆一起)](https://www.sohu.com/a/241856304_99965453  ) 
 
@@ -79,6 +79,8 @@
 
 [【6.15-7.31】【草甸】【6分】卧龙熊猫坪](http://www.wlxmp.com/)
 
+[【6.20-7.31】【草原】【7分】黄河九曲第一湾](http://www.mafengwo.cn/poi/5959849.html)
+
 [【6.25-7.31】【花】【8分】四姑娘山长坪沟穿越毕棚沟](http://www.mafengwo.cn/poi/11651.html) 
 
 [【7.1-7.31】【草甸花】【8分】茂县九鼎山](http://www.mafengwo.cn/poi/5438002.html) 
@@ -99,6 +101,8 @@
  [【1.1-2.15】【雪】【7分】色达喇荣五明佛学院](http://www.mafengwo.cn/poi/6013197.html) 
 
  [【5.15-7.31】【奇石】【6分】道孚墨石公园](http://www.mafengwo.cn/poi/2680611.html) 
+
+[【6.20-8.10】【寺庙】【6分】塔公草原_塔公寺](http://www.mafengwo.cn/poi/6018048.html)
 
 [【7.1-10.20】【海子】【7分】普措沟(夏天有土拨鼠)](http://www.mafengwo.cn/poi/6327320.html)
 
@@ -149,9 +153,19 @@
 
 ### 重庆
 
+[【3.1-3.15】【樱花】【6分】南山植物园](http://www.cqnsbg.cn/cqnsbg/index.html)
+
 [【3.1-5.31】【木阵】【6分】照母山植物园](http://www.mafengwo.cn/poi/8535.html)
 
-[【3.10-3.25】【樱花】【6分】重庆园博园](http://www.cqybh2011.com/cqyby/index.html)
+[【3.5-3.20】【樱花】【6分】重庆园博园](http://www.cqybh2011.com/cqyby/index.html)
+
+[【4.1-10.31】【铁道】【6分】歌乐山国家森林公园](http://www.mafengwo.cn/poi/8776546.html)
+
+[【6.20-8.20】【避暑】【7分】武隆喀斯特旅游区(天生三桥-仙女山-芙蓉洞-龙水峡地缝)](https://www.wlkst.com/)
+
+### 西安
+[【4.1-11.10】【夜景】【7分】大唐芙蓉园](http://www.tangparadise.cn/)
+
 
 
 
@@ -159,23 +173,29 @@
 
 [大雁塔-大唐不夜城](http://www.mafengwo.cn/poi/5434638.html)
 
-[大唐芙蓉园](http://www.tangparadise.cn/)
+[中国三峡博物馆](http://www.3gmuseum.cn/)
+
+[自贡恐龙博物馆](http://www.zdm.cn/)
+
+[中华彩灯大世界](http://www.mafengwo.cn/poi/86434588.html)
+
+[重庆自然博物馆](https://www.cmnh.org.cn/)
 
 [三恩措](http://www.mafengwo.cn/i/17609446.html)
 
+[花湖](http://www.mafengwo.cn/poi/5959846.html)
+
 [什达格](https://baijiahao.baidu.com/s?id=1673889077685460197&wfr=spider&for=pc)
 
-[贡嘎大环线](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
+[织金洞](http://www.gzzjd.com/#/home)
 
-[武隆喀斯特旅游区(天生三桥-仙女山-芙蓉洞-龙水峡地缝)](https://www.wlkst.com/)
+[贡嘎大环线](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
 
 [都江堰融创文旅城](http://www.sunacctg.com/destination/destination-details-19.html)
 
 [山城步道](http://www.mafengwo.cn/gonglve/ziyouxing/223006.html)
 
 [嫩恩桑措](http://www.jznesc.com/)
-
-[简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
 
 [八台山](http://www.bts517.com/)
 
