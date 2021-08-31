@@ -52,6 +52,8 @@
 
  [【9.20-10.15】【芙蓉】【6分】天府芙蓉园](http://www.tffry.com/) 
 
+[【10.15-11.15】【亲子】【6分】新都音乐百花谷](https://www.meipian.cn/2x9vxrgk)
+
  [【11.20-12.10】【银杏】【6分】都江堰景区](http://www.mafengwo.cn/poi/13732.html) 
 
  [【11.20-12.10】【银杏】【6分】青城山前山](http://www.mafengwo.cn/poi/7915885.html) 
@@ -75,7 +77,7 @@
 
 [【6.1-7.31】【草甸】【6分】卧龙甘海子](https://www.sohu.com/a/320982733_411957)
 
-[【6.1-9.30】【古堡】【6分】九子屯](https://www.meipian.cn/35n618vv)
+[【6.1-10.30】【古堡】【6分】九子屯](https://www.meipian.cn/35n618vv)
 
 [【6.15-7.31】【草甸】【6分】卧龙熊猫坪](http://www.wlxmp.com/)
 
@@ -151,6 +153,9 @@
 
 [【3.10-3.25】【辛夷花】【6分】药王谷](http://www.ywg99.com/)
 
+### 达州
+[【5.1-8.31】【绿】【6分】八台山](http://www.bts517.com/)
+
 ### 重庆
 
 [【3.1-3.15】【樱花】【6分】南山植物园](http://www.cqnsbg.cn/cqnsbg/index.html)
@@ -175,6 +180,8 @@
 
 [中国三峡博物馆](http://www.3gmuseum.cn/)
 
+[麓镇](http://www.mafengwo.cn/i/12532622.html)
+
 [自贡恐龙博物馆](http://www.zdm.cn/)
 
 [中华彩灯大世界](http://www.mafengwo.cn/poi/86434588.html)
@@ -196,10 +203,6 @@
 [山城步道](http://www.mafengwo.cn/gonglve/ziyouxing/223006.html)
 
 [嫩恩桑措](http://www.jznesc.com/)
-
-[八台山](http://www.bts517.com/)
-
-[新都音乐百花谷](https://www.meipian.cn/2x9vxrgk)
 
  [欢乐谷 ](http://cd.happyvalley.cn/)
 
