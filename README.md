@@ -22,7 +22,7 @@
 
 [【3.15-11.30】【栈道】【6分】钟家山步道](https://www.meipian.cn/2khfpum9)
 
-[【3.15-11.30】【晴天电视塔】【6分】成华公园](http://k.sina.com.cn/article_5228072440_1379e0df800100yin3.html)
+[【3.15-11.30】【晴天电视塔】【6分】天府四川金融博物馆(周六日一闭馆)_成华公园](http://k.sina.com.cn/article_5228072440_1379e0df800100yin3.html)
 
 [【3.20-4.5】【樱花】【6分】青白江区凤凰湖湿地公园(需要预约)](http://www.mafengwo.cn/poi/33578568.html) 
 
@@ -34,15 +34,11 @@
 
 [【4.1-5.10】【夜景】【6分】简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
 
-[【4.1-10.31】【歌剧院】【6分】露天音乐公园(晚上好看)](http://www.mafengwo.cn/poi/7686778.html) 
-
  [【4.1-10.31】【人文】【7分】锦绣安仁奇境花园-安仁古镇-建川博物馆聚落](http://www.jc-museum.cn/ ) 
 
 [【4.1-11.30】【海洋动物】【7分】海昌极地海洋公园 ](https://www.haichangoceanpark.com/chengdu)
 
 [【4.1-12.10】【三国】【6分】武侯祠博物馆(预约)-锦里](http://www.wuhouci.net.cn/default.html) 
-
-[【4.15-10.31】【步道】【6分】丹景台](http://www.mafengwo.cn/poi/90822408.html)
 
 [【4.20-5.10】【玫瑰】【6分】漫花庄园](http://www.manhuazhuangyuan.com/)
 
@@ -165,6 +161,8 @@
 
 [【1.1-12.31】【恐龙骨架】【6分】恐龙博物馆](http://www.zdm.cn/)
 
+[【1.1-12.31】【夜景】【7分】中华彩灯大世界](http://www.mafengwo.cn/poi/86434588.html)
+
 
 ### 达州
 [【5.1-8.31】【绿】【6分】八台山](http://www.bts517.com/)
@@ -196,7 +194,11 @@
 
 [【5.1-10.20@@@@@】【竹林瀑布】【6分】遵义四洞沟](http://www.mafengwo.cn/poi/15975.html)
 
-[【5.1-10.31@@@@@】【水】【7分】遵义赤水丹霞国家地质公园(大瀑布)](http://www.csdxcn.com/)
+[【5.1-10.31@@@@@】【水】【7分】遵义赤水丹霞国家地质公园(大瀑布-佛光岩)](http://www.csdxcn.com/)
+
+[【6.1-9.20@@@@@】【骑行】【7分】兴义万峰林](http://www.mafengwo.cn/poi/30584.html)
+
+[【6.1-9.30】【雾】【7分】铜仁梵净山](http://www.fjsfjq.com/index.htm)
 
 
 
@@ -214,13 +216,11 @@
 
 [遵义十二背后](https://www.mafengwo.cn/poi/24763469.html)
 
-[涪陵武陵山国家森林公园](http://www.wlsgjslgy.com/)
+[黔东南州施秉云台山](http://www.mafengwo.cn/poi/11381.html)
 
 [万盛黑山谷-石林](http://www.hsgtour.net/)
 
 [麓镇](http://www.mafengwo.cn/i/12532622.html)
-
-[中华彩灯大世界](http://www.mafengwo.cn/poi/86434588.html)
 
 [三恩措](http://www.mafengwo.cn/i/17609446.html)
 
@@ -262,6 +262,8 @@
   [【5.15-6.30】【薰衣草】【6分】双流紫颐香薰山谷(在建二期)](http://www.mafengwo.cn/poi/7032291.html)
 
  [【10.25-11.20】【彩林】【6分】崇州鸡冠山(去前确认有没有开放)](http://www.mafengwo.cn/poi/6330893.html)
+
+[【4.15-10.31】【步道】【6分】丹景台](http://www.mafengwo.cn/poi/90822408.html)
 
  [成都大熊猫繁育研究基地_大熊猫博物馆(周一闭馆)(扩建中)](http://www.mafengwo.cn/poi/5015.html) 
 
