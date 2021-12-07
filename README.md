@@ -196,6 +196,8 @@
 ### 巴中
 [【10.20-11.5】【红叶】【7分】光雾山](http://www.guangwushan.cn/)
 
+[【10.25-11.10】【红叶】【7分】十八月潭](http://www.mafengwo.cn/poi/8078543.html)
+
 
 ### 重庆
 
@@ -240,17 +242,19 @@
 
 [大雁塔-大唐不夜城](http://www.mafengwo.cn/poi/5434638.html)
 
+[西安城墙](http://www.chinaxiancitywall.com/index.php?m=pc)
+
 [中国三峡博物馆-人民广场-重庆人民大礼堂(暂停开放)](http://www.3gmuseum.cn/)
 
 [大渡河峡谷](http://www.mafengwo.cn/poi/6327654.html)
 
 [模坑博物馆](https://www.meipian.cn/3apkipua)
 
+[佛罗伦萨小镇](http://www.mafengwo.cn/i/21445624.html)
+
 [泰迪熊博物馆](http://www.mafengwo.cn/poi/6628921.html)
 
 [木尔寨沟](http://www.mafengwo.cn/poi/33677040.html)
-
-[十八月潭](http://www.mafengwo.cn/poi/8078543.html)
 
 
 [巴塘毛垭大草原](http://www.mafengwo.cn/poi/6414814.html)
