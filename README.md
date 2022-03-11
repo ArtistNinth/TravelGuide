@@ -6,17 +6,15 @@
 
 [【1.1-12.31】【飞机】【6分】立巢航空博物馆](http://www.lcam.org.cn/index.php)
 
+[【1.1-12.31】【人文】【6分】建川博物馆聚落](http://www.jc-museum.cn/ ) 
+
+ [【1.1-12.31】【游乐场】【6分】国色天乡一期童话世界 ](http://www.mafengwo.cn/poi/5503771.html)
+
 [【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
-
-[【3.1-3.15】【海棠】【6分】双流棠湖公园](http://www.mafengwo.cn/poi/5433340.html)
-
-[【3.1-12.15】【飞机】【6分】成飞公园](https://www.xcar.com.cn/bbs/viewthread.php?tid=97086413)
 
 [【3.15-3.25】【桃花】【6分】龙泉驿桃花故里](http://www.mafengwo.cn/poi/6963.html) 
 
 [【3.15-4.10】【郁金香】【6分】蒲江石象湖](http://www.mafengwo.cn/poi/5842.html) 
-
-[【3.15-4.10】【欧式】【6分】南湖公园](https://www.meipian.cn/wfh5x2g)
 
 [【3.15-4.15】【花】【6分】新津花舞人间](http://www.82555666.cc/)
 
@@ -32,8 +30,6 @@
 
 [【4.1-5.10】【夜景】【6分】简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
 
- [【4.1-10.31】【人文】【7分】锦绣安仁奇境花园-安仁古镇-建川博物馆聚落](http://www.jc-museum.cn/ ) 
-
 [【4.1-11.30】【海洋动物】【7分】海昌极地海洋公园 ](https://www.haichangoceanpark.com/chengdu)
 
 [【4.1-12.10】【三国】【6分】武侯祠博物馆(预约)-锦里](http://www.wuhouci.net.cn/default.html) 
@@ -43,6 +39,10 @@
 [【4.20-5.20】【欧洲】【6分】麓镇_麓山美术馆](http://www.mafengwo.cn/i/12532622.html)
 
 [【4.20-7.15】【花】【6分】新津白鹤滩国家湿地公园](http://xjbht.com/index.html)
+
+[【4.20-9.20】【坐船】【6分】麓湖水城(预约船票)](https://www.cdlakecity.com/)
+
+ [【4.20-11.15】【花园】【6分】大邑锦绣安仁奇境花园](http://sc.ifeng.com/c/80cPJxk9Qbg ) 
 
  [【4.20-12.10@@】【水】【7分】都江堰景区](http://www.mafengwo.cn/poi/13732.html) 
 
@@ -145,18 +145,12 @@
 
  [【5.1-6.10】【杜鹃】【6分】螺髻山](http://www.luojishan.com/ )
 
- [【6.1-10.31】【山水】【8分】邛海泸山(查看是否森林防火封闭)](https://www.xcqhls.cn/)
-
 ### 眉山
 
 [【5.1-10.31】【喷泉】【6分】东坡城市湿地公园(周末夜景喷泉)_穿越盛世 ](http://www.mafengwo.cn/poi/33647656.html)
 
 [【12.1-1.31@@】【雪】【7分】瓦屋山(山顶环形通道封闭)](http://www.hywws.cn/)
 
-### 宜宾
-[【5.1-10.31】【石头】【7分】宜宾兴文石海](https://www.meipian.cn/39iewnqi)
-
-[【4.1-10.31】【竹海】【7分】宜宾蜀南竹海](https://www.snzh.cn/)
 
 ### 雅安
 
@@ -182,9 +176,7 @@
 
 ### 自贡
 
-[【1.1-12.31】【恐龙骨架】【6分】恐龙博物馆](http://www.zdm.cn/)
-
-[【1.1-12.31】【夜景】【7分】中华彩灯大世界](http://www.mafengwo.cn/poi/86434588.html)
+[【1.1-12.31@@@@@】【恐龙骨架】【6分】恐龙博物馆](http://www.zdm.cn/)
 
 
 ### 达州
@@ -262,8 +254,6 @@
 
 [黔东南州施秉云台山](http://www.mafengwo.cn/poi/11381.html)
 
-[万盛黑山谷-石林](http://www.hsgtour.net/)
-
 [三恩措](http://www.mafengwo.cn/i/17609446.html)
 
 [什达格](https://baijiahao.baidu.com/s?id=1673889077685460197&wfr=spider&for=pc)
@@ -277,8 +267,6 @@
 [嫩恩桑措](http://www.jznesc.com/)
 
  [欢乐谷 ](http://cd.happyvalley.cn/)
-
- [国色天乡 ](http://www.mafengwo.cn/poi/5503771.html)
 
  [巴谷多](http://www.mafengwo.cn/i/6332945.html  ) 
 
@@ -334,8 +322,6 @@
 [孟获城-冶勒湖](http://www.mafengwo.cn/poi/5429941.html)
 
 [云阳龙缸国家地质公园](http://www.cqyylg.com/index.aspx)
-
-[麓湖水城](https://www.cdlakecity.com/)
 
 
 
