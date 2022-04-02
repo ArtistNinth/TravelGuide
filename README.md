@@ -12,15 +12,17 @@
 
 [【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
 
+[【3.10-3.25】【花】【6分】彭州葛仙山](https://www.aiketour.com/raiders/show_1343.html)
+
 [【3.15-3.25】【桃花】【6分】龙泉驿桃花故里](http://www.mafengwo.cn/poi/6963.html) 
+
+[【3.15-3.31】【亲子】【6分】天府新区消防文化公园](https://www.sohu.com/a/334815821_176064) 
 
 [【3.15-4.10】【郁金香】【6分】蒲江石象湖](http://www.mafengwo.cn/poi/5842.html) 
 
 [【3.15-4.15】【花】【6分】新津花舞人间](http://www.82555666.cc/)
 
-[【3.20-4.5】【樱花】【6分】青白江区凤凰湖湿地公园(需要预约)](http://www.mafengwo.cn/poi/33578568.html) 
-
-[【3.20-4.5】【亲子】【6分】天府新区消防文化公园](https://www.sohu.com/a/334815821_176064) 
+[【3.20-3.31】【樱花】【6分】青白江区凤凰湖湿地公园(需要预约)](http://www.mafengwo.cn/poi/33578568.html) 
 
 [【3.25-12.10】【水】【7分】龙泉驿青龙湖湿地公园](http://www.mafengwo.cn/poi/9957041.html) 
 
@@ -29,8 +31,6 @@
 [【4.1-4.20】【牡丹】【6分】彭州丹景山](http://www.mafengwo.cn/poi/2466275.html)
 
 [【4.1-5.10】【夜景】【6分】简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
-
-[【4.1-11.30】【海洋动物】【7分】海昌极地海洋公园 ](https://www.haichangoceanpark.com/chengdu)
 
 [【4.1-12.10】【三国】【6分】武侯祠博物馆(预约)-锦里](http://www.wuhouci.net.cn/default.html) 
 
@@ -69,10 +69,6 @@
 
 
 ### 阿坝
-[【1.1-2.28】【雪山云海】【6分】海尔凼](http://www.mafengwo.cn/gonglve/ziyouxing/393312.html)
-
-[【1.15-3.15】【雪山云海】【7分】巴朗山熊猫王国之巅](http://www.mafengwo.cn/poi/30973.html)
-
 [【2.1-3.15】【雪山云海】【8分】四姑娘山大峰](http://www.mafengwo.cn/i/18065068.html)
 
 [【3.10-6.10】【藏寨】【6分】甲居藏寨](http://www.mafengwo.cn/i/7029965.html)
@@ -89,10 +85,6 @@
 
 [【6.20-7.31】【草原】【7分】黄河九曲第一湾](http://www.mafengwo.cn/poi/5959849.html)
 
-[【6.25-7.31】【花】【8分】四姑娘山长坪沟穿越毕棚沟](http://www.mafengwo.cn/poi/11651.html) 
-
-[【7.1-7.31】【草甸花】【8分】茂县九鼎山](http://www.mafengwo.cn/poi/5438002.html) 
-
 [【7.1-7.31】【水】【7分】若尔盖花湖](http://www.mafengwo.cn/poi/5959846.html)
 
 [【7.1-8.31】【绿水】【6分】牟尼沟](https://www.mafengwo.cn/poi/1366638.html   ) 
@@ -100,8 +92,6 @@
 [【10.1-10.15】【彩池】【8分】黄龙](https://www.huanglong.com/  ) 
 
 [【10.1-10.20】【彩林】【8分】七藏沟](http://www.mafengwo.cn/poi/6726079.html)
-
-[【10.15-10.31@@】【秋色】【8分】四姑娘山双桥沟](http://www.mafengwo.cn/poi/11647.html) 
 
  [【10.20-11.5】【水】【8分】九寨沟](https://www.jiuzhai.com/ ) 
 
@@ -118,15 +108,9 @@
 
  [【1.1-2.15】【雪】【7分】色达喇荣五明佛学院](http://www.mafengwo.cn/poi/6013197.html) 
 
- [【5.20-8.10】【奇石】【6分】道孚墨石公园](http://www.mafengwo.cn/poi/2680611.html) 
-
 [【6.20-8.10】【寺庙】【6分】康定塔公草原_塔公寺](http://www.mafengwo.cn/poi/6018048.html)
 
 [【7.1-10.20】【海子】【7分】巴塘措普沟(夏天有土拨鼠)](http://www.mafengwo.cn/poi/6327320.html)
-
-[【9.10-10.10】【雪山】【8分】稻城亚丁大转山](https://cn.yadingtour.com/)
-
-[【10.1-10.20】【水】【6分】康定情歌木格措](http://www.kangdingqingge.cn/#page4)
 
 [【10.10-10.25】【彩林】【8分】丹巴党岭-葫芦海-卓雍措](http://www.mafengwo.cn/poi/6725480.html)
 
@@ -136,10 +120,6 @@
 
 [【12.10-1.20】【云海】【7分】泸定红岩顶](http://www.mafengwo.cn/poi/25291244.html)
 
-### 广元
-
-[【4.1-11.20】【险】【7分】剑门关](https://baike.baidu.com/item/%E5%89%91%E9%97%A8%E5%85%B3%E9%A3%8E%E6%99%AF%E5%8C%BA/1356420?fr=aladdin) 
-
 
 ### 凉山
 
@@ -147,18 +127,12 @@
 
 ### 眉山
 
-[【5.1-10.31】【喷泉】【6分】东坡城市湿地公园(周末夜景喷泉)_穿越盛世 ](http://www.mafengwo.cn/poi/33647656.html)
-
 [【12.1-1.31@@】【雪】【7分】瓦屋山(山顶环形通道封闭)](http://www.hywws.cn/)
 
 
 ### 雅安
 
  [【6.1-8.31@@】【大熊猫】【6分】碧峰峡](http://www.bifengxia.com/  ) 
-
-[【6.15-8.10】【星空】【7分】轿顶山](http://www.mafengwo.cn/poi/6634676.html)
-
- [【10.25-11.15@@】【红杉云海】【7分】宝兴硗碛藏寨·神木垒_达瓦更扎](http://www.mafengwo.cn/poi/6789069.html ) 
 
 
 ### 乐山
@@ -246,6 +220,18 @@
 
 [木尔寨沟](http://www.mafengwo.cn/poi/33677040.html)
 
+[木雅大寺_甲谷弄](https://www.sohu.com/a/523912426_411957)
+
+[熊猫之眼](https://www.xiaohongshu.com/discovery/item/604e2191000000000102722b)
+
+[红海子](https://www.meipian.cn/3boknjci)
+
+[措卡湖](http://www.mafengwo.cn/gonglve/ziyouxing/199744.html)
+
+[老峨山](https://sclaoeshan.com/)
+
+[窦圌山](http://www.scdcs.net/)
+
 [九峰山](http://www.mafengwo.cn/poi/7153.html)
 
 [巴塘毛垭大草原](http://www.mafengwo.cn/poi/6414814.html)
@@ -275,7 +261,7 @@
 
 
 ### 建设中
-  [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中，和秀丽东方一起)](http://www.mafengwo.cn/i/2966466.html) 
+  [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中)](http://www.mafengwo.cn/i/2966466.html) 
 
  [【3.1-3.15】【油菜花】【6分】三圣花乡江家艺苑](https://www.sohu.com/a/329521897_348899) 
 
@@ -293,7 +279,9 @@
 
 [【4.15-10.31】【步道】【6分】丹景台](http://www.mafengwo.cn/poi/90822408.html)
 
- [成都大熊猫繁育研究基地_大熊猫博物馆(周一闭馆)(扩建中)](http://www.mafengwo.cn/poi/5015.html) 
+ [成都大熊猫繁育研究基地二期(周一闭馆)](http://www.mafengwo.cn/poi/5015.html) 
+
+ [天府艺术公园](https://view.inews.qq.com/a/20220217A07MPU00) 
 
  [天府广场(在改造)](http://www.mafengwo.cn/poi/5762.html) 
 
