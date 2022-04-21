@@ -75,11 +75,7 @@
 
 [【6.1-7.31】【草甸】【6分】卧龙甘海子](https://www.sohu.com/a/320982733_411957)
 
-[【6.1-8.31】【草甸】【7分】汶川麻地垭口(最高海拔3200)](https://bbs.youxiake.com/y/1029680.html)
-
 [【6.1-10.30】【古堡】【6分】九子屯](https://www.meipian.cn/35n618vv)
-
-[【6.1-11.20】【草甸】【7分】汶川卧龙石召垭口](http://www.mafengwo.cn/i/19680916.html)
 
 [【6.15-7.31】【草甸】【6分】卧龙熊猫坪](http://www.wlxmp.com/)
 
@@ -89,11 +85,7 @@
 
 [【7.1-8.31】【绿水】【6分】牟尼沟](https://www.mafengwo.cn/poi/1366638.html   ) 
 
-[【10.1-10.15】【彩池】【8分】黄龙](https://www.huanglong.com/  ) 
-
 [【10.1-10.20】【彩林】【8分】七藏沟](http://www.mafengwo.cn/poi/6726079.html)
-
- [【10.20-11.5】【水】【8分】九寨沟](https://www.jiuzhai.com/ ) 
 
 [【10.20-11.5】【彩林】【7分】茂县松坪沟](http://www.dxspg.com/)
 
@@ -108,17 +100,11 @@
 
  [【1.1-2.15】【雪】【7分】色达喇荣五明佛学院](http://www.mafengwo.cn/poi/6013197.html) 
 
-[【6.20-8.10】【寺庙】【6分】康定塔公草原_塔公寺](http://www.mafengwo.cn/poi/6018048.html)
-
 [【7.1-10.20】【海子】【7分】巴塘措普沟(夏天有土拨鼠)](http://www.mafengwo.cn/poi/6327320.html)
 
 [【10.10-10.25】【彩林】【8分】丹巴党岭-葫芦海-卓雍措](http://www.mafengwo.cn/poi/6725480.html)
 
-[【10.18-10.31】【雪山】【7分】道孚亚拉雪山](http://www.mafengwo.cn/poi/15285.html)
-
  [【12.1-2.14】【雪】【7分】泸定贡嘎海螺沟国家森林公园](http://www.mafengwo.cn/poi/15389.html) 
-
-[【12.10-1.20】【云海】【7分】泸定红岩顶](http://www.mafengwo.cn/poi/25291244.html)
 
 
 ### 凉山
@@ -220,11 +206,7 @@
 
 [木尔寨沟](http://www.mafengwo.cn/poi/33677040.html)
 
-[木雅大寺_甲谷弄](https://www.sohu.com/a/523912426_411957)
-
-[熊猫之眼](https://www.xiaohongshu.com/discovery/item/604e2191000000000102722b)
-
-[红海子](https://www.meipian.cn/3boknjci)
+[海子山姊妹湖](https://www.sohu.com/a/120196186_557415)
 
 [措卡湖](http://www.mafengwo.cn/gonglve/ziyouxing/199744.html)
 
