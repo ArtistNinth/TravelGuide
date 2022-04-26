@@ -34,7 +34,7 @@
 
 [【4.1-12.10】【三国】【6分】武侯祠博物馆(预约)-锦里](http://www.wuhouci.net.cn/default.html) 
 
-[【4.20-5.10】【玫瑰】【6分】漫花庄园](http://www.manhuazhuangyuan.com/)
+[【4.15-10.31】【竹子】【6分】新津斑竹林](http://www.mafengwo.cn/poi/15426864.html)
 
 [【4.20-5.20】【欧洲】【6分】麓镇_麓山美术馆](http://www.mafengwo.cn/i/12532622.html)
 
@@ -71,11 +71,7 @@
 ### 阿坝
 [【2.1-3.15】【雪山云海】【8分】四姑娘山大峰](http://www.mafengwo.cn/i/18065068.html)
 
-[【3.10-6.10】【藏寨】【6分】甲居藏寨](http://www.mafengwo.cn/i/7029965.html)
-
 [【6.1-7.31】【草甸】【6分】卧龙甘海子](https://www.sohu.com/a/320982733_411957)
-
-[【6.1-10.30】【古堡】【6分】九子屯](https://www.meipian.cn/35n618vv)
 
 [【6.15-7.31】【草甸】【6分】卧龙熊猫坪](http://www.wlxmp.com/)
 
@@ -86,8 +82,6 @@
 [【7.1-8.31】【绿水】【6分】牟尼沟](https://www.mafengwo.cn/poi/1366638.html   ) 
 
 [【10.1-10.20】【彩林】【8分】七藏沟](http://www.mafengwo.cn/poi/6726079.html)
-
-[【10.20-11.5】【彩林】【7分】茂县松坪沟](http://www.dxspg.com/)
 
 [【10.20-11.5】【彩林】【7分】玛嘉沟](https://www.8264.com/youji/5627320.html)
 
@@ -194,6 +188,8 @@
 
 [西安城墙](http://www.chinaxiancitywall.com/index.php?m=pc)
 
+[平乐古镇](http://www.plgztts.com/)
+
 [中国三峡博物馆-人民广场-重庆人民大礼堂(暂停开放)](http://www.3gmuseum.cn/)
 
 [大渡河峡谷](http://www.mafengwo.cn/poi/6327654.html)
@@ -238,6 +234,8 @@
 
  [巴谷多](http://www.mafengwo.cn/i/6332945.html  ) 
 
+ [泸沽湖](http://www.sclgh.cn/  ) 
+
  [三奥雪山](http://www.mafengwo.cn/poi/5438017.html  ) 
 
 
@@ -246,8 +244,6 @@
   [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中)](http://www.mafengwo.cn/i/2966466.html) 
 
  [【3.1-3.15】【油菜花】【6分】三圣花乡江家艺苑](https://www.sohu.com/a/329521897_348899) 
-
-[【4.15-10.31】【竹子】【6分】新津斑竹林-天府农博园](http://www.mafengwo.cn/poi/15426864.html)
 
   [【4.20-5.20】【花】【6分】桂溪生态公园(有待精致)](http://www.mafengwo.cn/poi/33578712.html) 
 
@@ -277,8 +273,6 @@
 
  [【10.1-10.10】【粉黛子】【6分】玉石湿地公园(有待精致)](https://www.meipian.cn/38ocy4gx) 
 
- [莲宝叶则(未开发完全)](https://www.mafengwo.cn/poi/23220908.html) 
-
 [大源中央公园_瞪羚谷公园_铁像寺水街_四川省妇女儿童中心_高新文化中心](https://www.meipian.cn/1ox08c2n)
 
 [成都大学樱花(大运会在建)](http://news.cdu.edu.cn/index.php?m=album&a=show&album_id=263)
@@ -290,6 +284,8 @@
 [桤木河湿地公园](http://www.mafengwo.cn/poi/26104433.html)
 
 [孟获城-冶勒湖](http://www.mafengwo.cn/poi/5429941.html)
+
+ [莲宝叶则(未开发完全)](https://www.mafengwo.cn/poi/23220908.html) 
 
 [云阳龙缸国家地质公园](http://www.cqyylg.com/index.aspx)
 
