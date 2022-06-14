@@ -32,19 +32,11 @@
 
 [【4.1-5.10】【夜景】【6分】简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
 
-[【4.1-12.10】【三国】【6分】武侯祠博物馆(预约)-锦里](http://www.wuhouci.net.cn/default.html) 
-
-[【4.15-10.31】【竹子】【6分】新津斑竹林](http://www.mafengwo.cn/poi/15426864.html)
-
-[【4.20-5.20】【欧洲】【6分】麓镇_麓山美术馆](http://www.mafengwo.cn/i/12532622.html)
-
 [【4.20-7.15】【花】【6分】新津白鹤滩国家湿地公园](http://xjbht.com/index.html)
 
 [【4.20-9.20】【坐船】【6分】麓湖水城(预约船票)](https://www.cdlakecity.com/)
 
  [【4.20-11.15】【花园】【6分】大邑锦绣安仁奇境花园](http://sc.ifeng.com/c/80cPJxk9Qbg ) 
-
- [【4.20-12.10@@】【水】【7分】都江堰景区](http://www.mafengwo.cn/poi/13732.html) 
 
  [【7.1-7.15】【向日葵】【6分】天府芙蓉园](http://www.tffry.com/) 
 
@@ -80,8 +72,6 @@
 [【7.1-7.31】【水】【7分】若尔盖花湖](http://www.mafengwo.cn/poi/5959846.html)
 
 [【7.1-8.31】【绿水】【6分】牟尼沟](https://www.mafengwo.cn/poi/1366638.html   ) 
-
-[【10.1-10.20】【彩林】【8分】七藏沟](http://www.mafengwo.cn/poi/6726079.html)
 
 [【10.20-11.5】【彩林】【7分】玛嘉沟](https://www.8264.com/youji/5627320.html)
 
@@ -200,11 +190,17 @@
 
 [泰迪熊博物馆](http://www.mafengwo.cn/poi/6628921.html)
 
-[木尔寨沟](http://www.mafengwo.cn/poi/33677040.html)
+[木尔寨沟穿越九架海](http://www.mafengwo.cn/poi/33677040.html)
 
 [海子山姊妹湖](https://www.sohu.com/a/120196186_557415)
 
+[二古溪](http://www.mafengwo.cn/i/10154434.html)
+
 [措卡湖](http://www.mafengwo.cn/gonglve/ziyouxing/199744.html)
+
+[华尖山](https://www.xcar.com.cn/bbs/viewthread.php?tid=34219276)
+
+[甘孜县白塔公园](http://www.mafengwo.cn/poi/33677744.html)
 
 [老峨山](https://sclaoeshan.com/)
 
@@ -222,7 +218,7 @@
 
 [什达格](https://baijiahao.baidu.com/s?id=1673889077685460197&wfr=spider&for=pc)
 
-[贡嘎大环线](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
+[贡嘎大环线(老榆林-格西草原-日乌且-莫溪沟-泉华滩-冷嘎措-子梅垭口-巴望海-草科)](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
 
 [都江堰融创文旅城](http://www.sunacctg.com/destination/destination-details-19.html)
 
@@ -284,8 +280,6 @@
 [桤木河湿地公园](http://www.mafengwo.cn/poi/26104433.html)
 
 [孟获城-冶勒湖](http://www.mafengwo.cn/poi/5429941.html)
-
- [莲宝叶则(未开发完全)](https://www.mafengwo.cn/poi/23220908.html) 
 
 [云阳龙缸国家地质公园](http://www.cqyylg.com/index.aspx)
 
