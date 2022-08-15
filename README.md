@@ -10,6 +10,8 @@
 
  [【1.1-12.31】【游乐场】【6分】国色天乡一期童话世界 ](http://www.mafengwo.cn/poi/5503771.html)
 
+[【1.1-12.31】【意式】【6分】佛罗伦萨小镇](http://www.mafengwo.cn/i/21445624.html)
+
 [【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
 
 [【3.10-3.25】【花】【6分】彭州葛仙山](https://www.aiketour.com/raiders/show_1343.html)
@@ -31,6 +33,10 @@
 [【4.1-4.20】【牡丹】【6分】彭州丹景山](http://www.mafengwo.cn/poi/2466275.html)
 
 [【4.1-5.10】【夜景】【6分】简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
+
+[【4.1-11.15】【飞机】【6分】空港运动公园(可以骑车)](https://m.gmw.cn/baijia/2020-09/07/1301535687.html)
+
+[【4.15-10.31】【休闲】【6分】清水河生态艺术公园 (可以骑车)](https://baijiahao.baidu.com/s?id=1733941034319123832&wfr=spider&for=pc)
 
 [【4.20-7.15】【花】【6分】新津白鹤滩国家湿地公园](http://xjbht.com/index.html)
 
@@ -71,8 +77,6 @@
 
 [【7.1-7.31】【水】【7分】若尔盖花湖](http://www.mafengwo.cn/poi/5959846.html)
 
-[【7.1-8.31】【绿水】【6分】牟尼沟](https://www.mafengwo.cn/poi/1366638.html   ) 
-
 [【10.20-11.5】【彩林】【7分】玛嘉沟](https://www.8264.com/youji/5627320.html)
 
 [【10.20-11.10】【黄叶】【7分】汶川卧龙老鸦山](https://baijiahao.baidu.com/s?id=1682424093052770359&wfr=spider&for=pc)
@@ -86,7 +90,9 @@
 
 [【7.1-10.20】【海子】【7分】巴塘措普沟(夏天有土拨鼠)](http://www.mafengwo.cn/poi/6327320.html)
 
-[【10.10-10.25】【彩林】【8分】丹巴党岭-葫芦海-卓雍措](http://www.mafengwo.cn/poi/6725480.html)
+[【10.1-11.30】【贡嘎倒影】【7分】三恩措](http://www.mafengwo.cn/i/17609446.html)
+
+[【11.1-2.28】【雪山云海】【7分】华尖山](https://www.xcar.com.cn/bbs/viewthread.php?tid=34219276)
 
  [【12.1-2.14】【雪】【7分】泸定贡嘎海螺沟国家森林公园](http://www.mafengwo.cn/poi/15389.html) 
 
@@ -145,6 +151,8 @@
 
 [【4.1-10.31】【铁道】【6分】歌乐山国家森林公园](http://www.mafengwo.cn/poi/8776546.html)
 
+[【4.1-11.10】【玻璃栈道】【7分】云阳龙缸国家地质公园](http://www.cqyylg.com/index.aspx)
+
 [【4.15-5.10】【杜鹃花】【7分】南川金佛山](http://www.517jfs.com/)
 
 [【5.1-11.20】【峡谷】【6分】涪陵武陵山大裂谷(地缝没有开放)](http://www.wlsdlg.com/)
@@ -180,13 +188,21 @@
 
 [平乐古镇](http://www.plgztts.com/)
 
+[文山普者黑](http://www.qbpzh.net/)
+
+[铜锣山矿山公园](https://baike.baidu.com/item/%E9%93%9C%E9%94%A3%E5%B1%B1%E7%9F%BF%E5%B1%B1%E5%85%AC%E5%9B%AD/58639994?fr=aladdin)
+
 [中国三峡博物馆-人民广场-重庆人民大礼堂(暂停开放)](http://www.3gmuseum.cn/)
 
 [大渡河峡谷](http://www.mafengwo.cn/poi/6327654.html)
 
+[牛背山](https://baijiahao.baidu.com/s?id=1735859228691872301&wfr=spider&for=pc)
+
+[黑石城](http://www.zangdiyg.com/article/detail/id/19458.html)
+
 [模坑博物馆](https://www.meipian.cn/3apkipua)
 
-[佛罗伦萨小镇](http://www.mafengwo.cn/i/21445624.html)
+[易园_蜀园](https://www.xiaohongshu.com/discovery/item/62e0e350000000001b02b34d)
 
 [泰迪熊博物馆](http://www.mafengwo.cn/poi/6628921.html)
 
@@ -194,11 +210,17 @@
 
 [海子山姊妹湖](https://www.sohu.com/a/120196186_557415)
 
+[那玛峰](https://www.sohu.com/a/537138971_120866112)
+
+[康定五色海黑海子](https://www.8264.com/wenzhang/5556183.html)
+
+[娘娘山](https://go.cqmmgo.com/forum-462572-thread-12821515116198962-1-1.html)
+
 [二古溪](http://www.mafengwo.cn/i/10154434.html)
 
 [措卡湖](http://www.mafengwo.cn/gonglve/ziyouxing/199744.html)
 
-[华尖山](https://www.xcar.com.cn/bbs/viewthread.php?tid=34219276)
+[王岗坪](http://www.wanggangping.com.cn/)
 
 [甘孜县白塔公园](http://www.mafengwo.cn/poi/33677744.html)
 
@@ -208,15 +230,15 @@
 
 [九峰山](http://www.mafengwo.cn/poi/7153.html)
 
+[铁瓦殿](https://mp.weixin.qq.com/s/kXTT6pGwYqUtGi8s16VFzQ)
+
+[小鱼洞穿越虹口](https://mp.weixin.qq.com/s/iYr2RymjFWJkQYtbF3xEsw)
+
 [巴塘毛垭大草原](http://www.mafengwo.cn/poi/6414814.html)
 
 [遵义十二背后](https://www.mafengwo.cn/poi/24763469.html)
 
 [黔东南州施秉云台山](http://www.mafengwo.cn/poi/11381.html)
-
-[三恩措](http://www.mafengwo.cn/i/17609446.html)
-
-[什达格](https://baijiahao.baidu.com/s?id=1673889077685460197&wfr=spider&for=pc)
 
 [贡嘎大环线(老榆林-格西草原-日乌且-莫溪沟-泉华滩-冷嘎措-子梅垭口-巴望海-草科)](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
 
@@ -233,6 +255,10 @@
  [泸沽湖](http://www.sclgh.cn/  ) 
 
  [三奥雪山](http://www.mafengwo.cn/poi/5438017.html  ) 
+
+ [巫山小三峡](http://www.mafengwo.cn/poi/5429091.html ) 
+
+[云阳三峡梯城](http://sanxiaticheng.symansbon.cn/)
 
 
 
@@ -254,8 +280,6 @@
 [【4.15-10.31】【步道】【6分】丹景台](http://www.mafengwo.cn/poi/90822408.html)
 
  [成都大熊猫繁育研究基地二期(周一闭馆)](http://www.mafengwo.cn/poi/5015.html) 
-
- [天府艺术公园](https://view.inews.qq.com/a/20220217A07MPU00) 
 
  [天府广场(在改造)](http://www.mafengwo.cn/poi/5762.html) 
 
@@ -280,8 +304,6 @@
 [桤木河湿地公园](http://www.mafengwo.cn/poi/26104433.html)
 
 [孟获城-冶勒湖](http://www.mafengwo.cn/poi/5429941.html)
-
-[云阳龙缸国家地质公园](http://www.cqyylg.com/index.aspx)
 
 
 
@@ -520,7 +542,17 @@
 
  [深圳仙湖植物园攻略,深圳仙湖植物园门票_地址,深圳仙湖植物园游览攻略 - 马蜂窝](http://www.mafengwo.cn/poi/6773494.html) 
 
+### 海南
 
+ [海口世纪公园_万绿园](http://www.mafengwo.cn/poi/5407733.html) 
+
+ [三亚南山文化旅游区](http://www.nanshan.com/nanshan/index.html) 
+
+ [三亚水稻国家公园](https://baike.baidu.com/item/%E4%B8%89%E4%BA%9A%E6%B0%B4%E7%A8%BB%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD/24263302?fr=aladdin) 
+
+ [陵水分界洲岛](http://www.hnfjz.com/) 
+
+ [儋州海花岛](https://hhd.evergrande.com/zh-cn/) 
 
 
 
