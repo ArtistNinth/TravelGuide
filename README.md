@@ -4,6 +4,8 @@
 ### 成都
 [【1.1-12.31】【科技】【6分】四川科技馆(周一闭馆，需要预约)](http://www.scstm.com/) 
 
+[【1.1-12.31】【科技】【7分】成都自然博物馆(周一闭馆，需要预约)](http://www.cdmnh.com/) 
+
 [【1.1-12.31】【飞机】【6分】立巢航空博物馆](http://www.lcam.org.cn/index.php)
 
 [【1.1-12.31】【人文】【6分】建川博物馆聚落](http://www.jc-museum.cn/ ) 
@@ -12,7 +14,11 @@
 
 [【1.1-12.31】【意式】【6分】佛罗伦萨小镇](http://www.mafengwo.cn/i/21445624.html)
 
+[【2.10-2.20】【梅花】【6分】百花潭公园](https://www.mafengwo.cn/poi/6275.html) 
+
 [【2.10-2.28】【太阳节】【6分】金沙遗址博物馆](http://www.mafengwo.cn/poi/1239.html) 
+
+[【2.20-2.28】【梅花】【6分】大邑鹤鸣山](https://www.xiaohongshu.com/explore/62148370000000002103d492)
 
 [【3.10-3.25】【花】【6分】彭州葛仙山](https://www.aiketour.com/raiders/show_1343.html)
 
@@ -30,6 +36,8 @@
 
 [【4.1-4.15】【花】【6分】龙泉驿蔚然花海](http://www.weiranhuahai.com/) 
 
+[【4.1-4.20】【花】【6分】文化公园](https://www.meipian.cn/34r13yfc)
+
 [【4.1-4.20】【牡丹】【6分】彭州丹景山](http://www.mafengwo.cn/poi/2466275.html)
 
 [【4.1-5.10】【夜景】【6分】简阳鳌山公园](http://www.mafengwo.cn/poi/59344620.html)
@@ -46,13 +54,11 @@
 
 [【6.1-9.30】【森林】【6分】小鱼洞穿越虹口](https://mp.weixin.qq.com/s/iYr2RymjFWJkQYtbF3xEsw)
 
- [【7.1-7.15】【向日葵】【6分】天府芙蓉园](http://www.tffry.com/) 
-
  [【7.1-7.15】【荷花】【6分】三圣花乡荷塘月色(和蓝顶美术馆一起)](https://www.sohu.com/a/241856304_99965453  ) 
 
- [【7.1-8.10】【荷花】【6分】新都宝光桂湖文化区](http://www.mafengwo.cn/poi/6628936.html) 
+[【10.10-10.25】【亲子】【6分】新都音乐百花谷](https://www.meipian.cn/2x9vxrgk)
 
-[【10.15-11.15】【亲子】【6分】新都音乐百花谷](https://www.meipian.cn/2x9vxrgk)
+ [【11.15-11.30】【银杏】【6分】青羊宫](https://www.xiaohongshu.com/explore/601e5f1d0000000001007650) 
 
 [【11.15-11.25】【银杏】【6分】崇州罨画池](https://www.meipian.cn/39l5jh81)
 
@@ -184,6 +190,11 @@
 
 [【6.1-9.30】【雾】【7分】铜仁梵净山](http://www.fjsfjq.com/index.htm)
 
+### 云南
+
+ [【9.20-10.20】【水】【7分】丽江泸沽湖](http://www.sclgh.cn/  ) 
+
+
 ### 甘肃
  [【6.15-8.20】【绿山】【7分】甘南扎尕那](http://www.mafengwo.cn/poi/1334174.html) 
 
@@ -260,11 +271,11 @@
 
 [山城步道](http://www.mafengwo.cn/gonglve/ziyouxing/223006.html)
 
- [泸沽湖](http://www.sclgh.cn/  ) 
-
  [巫山小三峡](http://www.mafengwo.cn/poi/5429091.html ) 
 
 [云阳三峡梯城](http://sanxiaticheng.symansbon.cn/)
+
+[巴拉格宗](http://www.balagezong.com/)
 
 
 
@@ -288,8 +299,6 @@
  [成都大熊猫繁育研究基地二期(周一闭馆)](http://www.mafengwo.cn/poi/5015.html) 
 
  [天府广场(在改造)](http://www.mafengwo.cn/poi/5762.html) 
-
-[文化公园-青羊宫](https://www.meipian.cn/34r13yfc)
 
 [高铁城市公园](https://www.sohu.com/a/576795673_523217)
 
