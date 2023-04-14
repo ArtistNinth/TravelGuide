@@ -20,6 +20,8 @@
 
 [【2.20-2.28】【梅花】【6分】大邑鹤鸣山](https://www.xiaohongshu.com/explore/62148370000000002103d492)
 
+[【3.1-3.10】【紫叶李】【6分】金沙滨河公园](https://www.mafengwo.cn/poi/78091508.html)
+
 [【3.10-3.25】【花】【6分】彭州葛仙山](https://www.aiketour.com/raiders/show_1343.html)
 
 [【3.15-3.25】【桃花】【6分】龙泉驿桃花故里](http://www.mafengwo.cn/poi/6963.html) 
@@ -117,7 +119,9 @@
 
 ### 眉山
 
-[【12.1-1.31@@】【雪】【7分】瓦屋山(山顶环形通道封闭)](http://www.hywws.cn/)
+ [【5.1-6.30】【养生】【6分】彭祖山](http://www.pengzushan.net/)
+
+[【12.1-1.31】【雪】【7分】瓦屋山(山顶环形通道封闭)](http://www.hywws.cn/)
 
 
 ### 雅安
@@ -134,6 +138,8 @@
 [【3.10-3.25】【辛夷花】【6分】药王谷](http://www.ywg99.com/)
 
 [【4.1-11.30】【丹霞】【6分】江油窦圌山](http://www.scdcs.net/)
+
+[【6.1-8.31】【凉爽】【6分】江油中华洞天](http://www.zhdtlyjq.com/)
 
 ### 德阳
 
@@ -175,6 +181,8 @@
 
 [【6.20-8.20】【避暑】【7分】武隆喀斯特旅游区(天生三桥-仙女山-芙蓉洞-龙水峡地缝)](https://www.wlkst.com/)
 
+ [【11.20-12.15】【红叶游船】【7分】巫山小三峡](http://www.mafengwo.cn/poi/5429091.html ) 
+
 ### 陕西
 [【4.1-11.10】【夜景】【7分】西安大唐芙蓉园](http://www.tangparadise.cn/)
 
@@ -215,8 +223,6 @@
 
 [贡嘎大环线(老榆林-格西草原-日乌且-莫溪沟-泉华滩-冷嘎措-子梅垭口-巴望海-草科)](http://www.mafengwo.cn/gonglve/ziyouxing/307904.html)
 
-[模坑博物馆](https://www.meipian.cn/3apkipua)
-
 [易园_蜀园](https://www.xiaohongshu.com/discovery/item/62e0e350000000001b02b34d)
 
 [泰迪熊博物馆](http://www.mafengwo.cn/poi/6628921.html)
@@ -245,11 +251,9 @@
 
 [牛背山](https://baijiahao.baidu.com/s?id=1735859228691872301&wfr=spider&for=pc)
 
-[江油中华洞天](http://www.zhdtlyjq.com/)
-
 [大渡河峡谷](http://www.mafengwo.cn/poi/6327654.html)
 
-[平乐古镇----------------------------](http://www.plgztts.com/)
+[平乐古镇](http://www.plgztts.com/)
 
 [大雁塔-大唐不夜城](http://www.mafengwo.cn/poi/5434638.html)
 
@@ -270,8 +274,6 @@
 [迪庆雨崩(西当-南宗垭口-雨崩上村-冰湖-神湖-雨崩下村-神瀑-尼农)](https://zhuanlan.zhihu.com/p/65391242)
 
 [山城步道](http://www.mafengwo.cn/gonglve/ziyouxing/223006.html)
-
- [巫山小三峡](http://www.mafengwo.cn/poi/5429091.html ) 
 
 [云阳三峡梯城](http://sanxiaticheng.symansbon.cn/)
 
