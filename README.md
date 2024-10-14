@@ -48,8 +48,6 @@
 
 [【4.20-7.15】【花】【6分】新津白鹤滩国家湿地公园](http://xjbht.com/index.html)
 
-[【4.20-9.20】【坐船】【6分】麓湖水城(预约船票)](https://www.cdlakecity.com/)
-
  [【4.20-11.15】【花园】【6分】大邑锦绣安仁奇境花园](http://sc.ifeng.com/c/80cPJxk9Qbg ) 
 
 [【6.1-9.30】【森林】【6分】小鱼洞穿越虹口](https://mp.weixin.qq.com/s/iYr2RymjFWJkQYtbF3xEsw)
@@ -79,6 +77,16 @@
 
 [【6.1-7.31】【草甸】【6分】卧龙甘海子](https://www.sohu.com/a/320982733_411957)
 
+ [【6.1-10.20】【雪山湖】【6分】理县霸王山](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3815784018763716030) 
+
+ [【6.1-10.31】【寺庙】【6分】阿坝各莫寺](https://baijiahao.baidu.com/s?id=1760876816269834272&wfr=spider&for=pc) 
+
+ [【6.1-10.31】【草原河流】【7分】阿坝曼则塘](https://www.xiaohongshu.com/explore/615167a6000000002103fc64) 
+
+ [【6.1-10.31】【草原】【7分】罗日那则光影揽胜](https://www.xiaohongshu.com/explore/615167a6000000002103fc64) 
+
+ [【6.1-10.31】【秘境】【7分】550乡道(铁布镇-崩巴村-花湖景区)](https://baijiahao.baidu.com/s?id=1712956558212805071&wfr=spider&for=pc) 
+
 [【6.15-7.31】【草甸】【6分】卧龙熊猫坪](http://www.wlxmp.com/)
 
 [【6.20-7.31】【草原】【7分】黄河九曲第一湾](http://www.mafengwo.cn/poi/5959849.html)
@@ -89,7 +97,9 @@
 
 [【10.20-11.10】【黄叶】【7分】汶川卧龙老鸦山](https://baijiahao.baidu.com/s?id=1682424093052770359&wfr=spider&for=pc)
 
-[【10.20-11.10】【冰川】【7分】达古冰川 ](https://www.dgbc.cn/)
+[【10.20-11.10】【冰川】【7分】黑水达古冰川 ](https://www.dgbc.cn/)
+
+[【10.20-11.10】【彩林】【6分】黑水奶子沟 ](https://bbs.youxiake.com/y/1009449.html)
 
 
 ### 甘孜
@@ -114,8 +124,6 @@
 ### 凉山
 
  [【5.1-6.10】【杜鹃】【6分】螺髻山](http://www.luojishan.com/ )
-
- [【3.1-11.30】【山湖】【7分】雷波马湖 ](http://www.leibomahu.com/#/)
 
 ### 眉山
 
@@ -156,7 +164,7 @@
 
 ### 内江
 
- [【4.1-6.10】【湖】【6分】隆昌古宇湖 ](http://www.gyhjq.com/)
+ [【4.1-6.10】【湖】【6分】隆昌古宇湖](http://www.gyhjq.com/)
 
 
 ### 达州
@@ -169,6 +177,20 @@
 [【10.25-11.10】【红叶】【7分】十八月潭](http://www.mafengwo.cn/poi/8078543.html)
 
 
+### 宜宾
+[【3.10-12.20】【夜景】【6分】李庄古镇](http://www.guangwushan.cn/)
+
+[【3.10-12.20】【夜景大地球】【6分】合江门冠英街区](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4764250451846995950)
+
+
+
+### 泸州
+
+[【4.20-5.10】【绣球花】【6分】金龙寺](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4715106813359738727)
+
+
+
+
 ### 重庆
 
 [【1.1-12.31】【动物】【7分】重庆自然博物馆(需要预约)](https://www.cmnh.org.cn/)
@@ -176,6 +198,8 @@
 [【1.1-12.31】【人文】【7分】中国三峡博物馆-人民广场-重庆人民大礼堂](http://www.3gmuseum.cn/)
 
 [【1.1-12.31】【石刻】【7分】大足石刻(宝顶山北山联票便宜)](http://www.dzshike.com/dazu/#onepage)
+
+[【1.1-12.31】【古物】【6分】璧山大圆祥博物馆](http://www.cq-dyx.com/)
 
 [【2.10-11.30】【阶梯】【6分】云阳三峡梯城](http://sanxiaticheng.symansbon.cn/)
 
@@ -200,11 +224,7 @@
  [【11.20-12.15】【红叶游船】【7分】巫山小三峡](http://www.mafengwo.cn/poi/5429091.html ) 
 
 ### 陕西
-[【4.1-11.10】【夜景】【7分】西安大唐芙蓉园](http://www.tangparadise.cn/)
-
 [【4.1-11.15】【骑行】【7分】西安城墙](http://www.chinaxiancitywall.com/index.php?m=pc)
-
-[【4.1-11.30】【夜景】【8分】西安大雁塔(下午)-大唐不夜城(晚上)](http://www.mafengwo.cn/poi/5434638.html)
 
 [【6.20-9.15】【云海】【8分】宝鸡太白山国家森林公园](http://www.tbpark.com/)
 
@@ -214,15 +234,41 @@
 ### 贵州
 [【3.1-11.30】【溶洞】【7分】毕节织金洞](http://www.gzzjd.com/#/home)
 
- [【3.20-4.10】【杜鹃】【7分】六盘水乌蒙大草原 ](http://www.gzwmdcy.cn/)
+ [【3.1-12.10】【夜景】【6分】贵阳花果园湿地公园](https://baijiahao.baidu.com/s?id=1702142100406206556&wfr=spider&for=pc)
 
-[【5.1-10.20@@@@@】【竹林瀑布】【6分】遵义四洞沟](http://www.mafengwo.cn/poi/15975.html)
+ [【3.1-12.10】【茅台镇】【6分】遵义怀仁红军四渡赤水纪念园-吊桥-1915广场]()
 
-[【5.1-10.31@@@@@】【水】【7分】遵义赤水丹霞国家地质公园(大瀑布-佛光岩)](http://www.csdxcn.com/)
+ [【3.20-4.10】【杜鹃】【7分】六盘水乌蒙大草原](http://www.gzwmdcy.cn/)
 
-[【6.1-9.20@@@@@】【骑行】【7分】兴义万峰林](http://www.mafengwo.cn/poi/30584.html)
+ [【3.20-12.10】【悬空寺】【6分】遵义尧龙山瑞峰寺](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5268189972575895039)
+
+[【4.1-11.20】【天光洞】【7分】安顺格凸河](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5184511137672333359)
+
+[【5.1-10.20】【贵州武功山】【8分】六盘水老王山](https://baijiahao.baidu.com/s?id=1809449387692981522&wfr=spider&for=pc)
+
+[【5.1-10.20】【天路石林】【7分】六盘水龙脊山](https://baijiahao.baidu.com/s?id=1799107375700190378&wfr=spider&for=pc)
+
+[【5.1-10.20】【水山】【6分】六盘水牂牁江湖滨旅游度假区](https://www.mafengwo.cn/poi/6326475.html)
+
+[【5.1-10.20】【绝壁】【6分】六盘水独山十里绝壁画廊](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5634356851153397360)
+
+[【5.1-10.20】【水上峡谷】【7分】黔西南北盘江大峡谷](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_5133034473154878414)
+
+[【5.1-10.20】【观景台】【6分】黔西南兴义玉皇顶](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_3683865614515274355)
+
+[【5.1-10.20】【峰林】【6分】黔西南兴义万重山](https://mp.weixin.qq.com/s?__biz=MzI1NjY2MDg0Mw==&mid=2247613492&idx=2&sn=ec5503b90423bdcbf71df6975034feab&chksm=eb11b3aeca04c956d889e3a665e4cc6c86f5ef321e6e9961d0d49c1d8a097ed1e88cbfff140f&scene=27)
+
+[【5.1-10.20】【水上峡谷】【6分】毕节乌江源百里画廊化屋风景区](https://baijiahao.baidu.com/s?id=1810952478182418186&wfr=spider&for=pc)
+
+[【5.1-10.31】【坐船】【6分】毕节九洞天](http://www.jdtfjq.com/#/)
+
+[【6.1-9.20@@@@@】【骑行】【7分】黔西南兴义万峰林](http://www.mafengwo.cn/poi/30584.html)
 
 [【6.1-9.30】【雾】【7分】铜仁梵净山](http://www.fjsfjq.com/index.htm)
+
+[【6.1-10.15】【草原风车】【6分】毕节百草坪](https://mp.weixin.qq.com/s?__biz=MzIyMDA0OTg3OQ==&mid=2650240246&idx=1&sn=9265e5f563f5b31bd6e5208ab1aedb0c&chksm=8e872a0789155e5d76181db8c95e92a80f39e5b18cb289243cd346ee7ced8a87e02af19f83f0&scene=27)
+
+[【6.1-10.15】【草原波浪路】【7分】毕节阿西里西大草原(二台坡)](https://baijiahao.baidu.com/s?id=1775878263424016817&wfr=spider&for=pc)
 
 [【8.15-9.5】【韭菜花草甸】【7分】六盘水小韭菜坪毕节大韭菜坪](https://baijiahao.baidu.com/s?id=1745001394373913299&wfr=spider&for=pc)
 
@@ -234,21 +280,17 @@
 ### 甘肃
  [【6.15-8.20】【绿山】【7分】甘南扎尕那(从洛克之路进不收门票不堵车)](http://www.mafengwo.cn/poi/1334174.html) 
 
- [【6.15-8.20】【小独库】【8分】甘南洛克之路](https://www.xiaohongshu.com/explore/6159b7fe000000000102cfe8) 
+ [【6.15-8.20】【小独库】【8分】甘南洛克之路(贡巴寺-尼巴百年藏寨)](https://www.xiaohongshu.com/explore/6159b7fe000000000102cfe8) 
 
  [【6.15-9.15】【寺庙】【6分】甘南安多合作米拉日巴佛阁](https://www.xiaohongshu.com/explore/62cd1601000000000b016121) 
 
- [【6.20-8.15】【夏绿秋黄】【6分】甘南尕海湖](https://zhuanlan.zhihu.com/p/71309340) 
-
  [【6.20-10.20】【夏绿秋黄】【6分】甘南桑科草原](https://www.xiaohongshu.com/explore/611522920000000021038008) 
-
- [【6.20-10.20】【人少视野好】【7分】阿万仓湿地](https://www.xiaohongshu.com/explore/62ce90cf000000000d016950) 
 
  [【7.1-9.10】【寺庙】【6分】甘南拉卜楞寺](https://zhuanlan.zhihu.com/p/386621356) 
 
- [【7.1-9.10】【寺庙】【7分】甘南郎木寺](https://baijiahao.baidu.com/s?id=1763698981029008943&wfr=spider&for=pc) 
-
  [【10.1-10.31】【小小九寨】【6分】陇南官鹅沟](https://www.gegdjq.com/web/index/index.html) 
+
+
 
 
 
@@ -266,11 +308,9 @@
 
  [姑弄村](https://www.xiaohongshu.com/explore/62ecfb5200000000150086cf) 
 
- [翠云廊](https://www.mafengwo.cn/poi/6646371.html) 
-
  [九红草原风光路](https://baijiahao.baidu.com/s?id=1741855717038448017&wfr=spider&for=pc) 
 
- [各莫寺](https://baijiahao.baidu.com/s?id=1760876816269834272&wfr=spider&for=pc) 
+ [扎萨格峡谷](http://k.sina.com.cn/article_1211756405_p4839ef7502700n97l.html) 
 
  [错通翠湖](https://www.8264.com/youji/5686333.html) 
 
@@ -316,8 +356,6 @@
 
 [铜锣山矿山公园](https://baike.baidu.com/item/%E9%93%9C%E9%94%A3%E5%B1%B1%E7%9F%BF%E5%B1%B1%E5%85%AC%E5%9B%AD/58639994?fr=aladdin)
 
-[山城步道](http://www.mafengwo.cn/gonglve/ziyouxing/223006.html)
-
 [大鹅岭](http://daeling.com/)
 
 [两江游船](https://www.liangjiangyou.com/)
@@ -326,9 +364,9 @@
 
 ### 贵州
 
-[遵义十二背后](https://www.mafengwo.cn/poi/24763469.html)
-
 [黔东南州施秉云台山](http://www.mafengwo.cn/poi/11381.html)
+
+[梅花山](http://www.meihuashanly.cn/)
 
 
 
@@ -346,6 +384,8 @@
   [【1.10-2.10】【梅花】【6分】三圣花乡幸福梅林(改造中)](http://www.mafengwo.cn/i/2966466.html) 
 
  [【3.1-3.15】【油菜花】【6分】三圣花乡江家艺苑](https://www.sohu.com/a/329521897_348899) 
+
+[【4.20-5.10】【蓝花楹】【7分】麓湖水城](https://www.cdlakecity.com/)
 
   [【4.20-5.20】【花】【6分】桂溪生态公园(有待精致)](http://www.mafengwo.cn/poi/33578712.html) 
 
